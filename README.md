@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <li>🔨 I'm currently working on daily coding challenges and interview prep</li>
   <li>🍎 I'm currently learning TypeScript and MongoDB</li>
   <li>📫 Send an email to bbilek35@gmail.com if you would like to reach out</li>
-  <li>🌐 Add me on [LinkedIn](https://www.linkedin.com/in/bryanbilek/)</li>
+  <li>🌐 Add me on LinkedIn: https://www.linkedin.com/in/bryanbilek/</li>
 </ul>
