@@ -1,4 +1,5 @@
 ### Hello there, I'm Bryan 👋
+I'm a Computer Software Engineer that just completed my time at Lambda School learning how to code!
 
 <!--
 **bryanbilek/bryanbilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-*🔨 I'm currently working on daily coding challenges and interview prep
-*🍎 I'm currently learning TypeScript and MongoDB
-*📫 Send an email to bbilek35@gmail.com if you would like to reach out
-*🌐 Add me on [LinkedIn](https://www.linkedin.com/in/bryanbilek/)
+<ul>
+  <li>🔨 I'm currently working on daily coding challenges and interview prep</li>
+  <li>🍎 I'm currently learning TypeScript and MongoDB</li>
+  <li>📫 Send an email to bbilek35@gmail.com if you would like to reach out</li>
+  <li>🌐 Add me on [LinkedIn](https://www.linkedin.com/in/bryanbilek/)</li>
+</ul>
