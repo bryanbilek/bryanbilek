@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Bryan 👋
 
 <!--
 **bryanbilek/bryanbilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<ul>
+<li>I'm currently working on daily coding challenges and interview prep</li>
+<li>I'm currently learning TypeScript and MongoDB</li>
+<li>Send an email to bbilek35@gmail.com if you would like to reach out</li>
+</ul>
