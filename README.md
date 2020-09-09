@@ -1,7 +1,5 @@
 ### Hello there, I'm Bryan 👋
 
-<p>Life's journey has brought me many places but finally a home in programming and web development 👍</p>
-
 <!--
 **bryanbilek/bryanbilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![https://www.linkedin.com/in/bryanbilek/](https://logodix.com/logo/79688.ico)
-
 *🔨 I'm currently working on daily coding challenges and interview prep
 *🍎 I'm currently learning TypeScript and MongoDB
-
 *📫 Send an email to bbilek35@gmail.com if you would like to reach out
+*🌐 Add me on [LinkedIn](https://www.linkedin.com/in/bryanbilek/)
