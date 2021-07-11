@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <ul>
-  <li>🔨 I'm currently working on daily coding challenges and interview prep</li>
-  <li>🍎 I'm currently learning TypeScript and MongoDB</li>
-  <li>📫 Send an email to bryanjbilek@gmail.com if you would like to reach out</li>
+  <li>🔨 I'm currently working on daily code challenges & interview prep</li>
+  <li>🍎 I'm currently learning MongoDB</li>
+  <li>📫 Send an email to bryanjohnbilek@gmail.com if you would like to reach out</li>
   <li>🌐 Add me on LinkedIn: https://www.linkedin.com/in/bryanbilek/</li>
 </ul>
