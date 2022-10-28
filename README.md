@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<ul>
+<!-- <ul>
   <li>🔨 I'm currently working on daily code challenges & interview prep</li>
   <li>🍎 I'm currently learning MongoDB</li>
   <li>📫 Send an email to bryanjohnbilek@gmail.com if you would like to reach out</li>
   <li>🌐 Add me on LinkedIn: https://www.linkedin.com/in/bryanbilek/</li>
 </ul>
+ -->
