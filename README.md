@@ -1,5 +1,4 @@
-### Hello there, I'm Bryan 👋
-I'm a Computer Software Engineer that just completed my time at Lambda School learning how to code!
+### Welcome! 👋
 
 <!--
 **bryanbilek/bryanbilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
