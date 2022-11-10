@@ -1,4 +1,4 @@
-### Welcome! 👋 I'm a Full Stack Developer from Chicago that is also an alumni of BloomTech. My stack currently includes: HTML, CSS, JS, React, Node, MongoDB, & Python but I'm always interested in learning other tools.  
+### Welcome! 👋 I'm a Full Stack Developer from Chicago that is also an alumni of BloomTech. My stack currently includes: HTML, CSS, JS, React, Redux, Node, MongoDB, & Python but I'm always interested in learning other tools.  
 
 <!--
 **bryanbilek/bryanbilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
